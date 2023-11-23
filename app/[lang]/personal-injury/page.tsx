@@ -1,8 +1,8 @@
 import {getDictionary} from '../../../lib/getDictionary'
 import HomeBlog from '@frontComponents/HomeBlog'
-import HeaderImmigration from '../../../servicesComponents/HeaderImmigration'
-import ServiceCardsImmigration from '@servicesComponents/ServiceCardsImmigration'
-import TestimonialsImmigration from '@servicesComponents/TestimonialsImmigration'
+import Header from '../../../servicesComponents/Header'
+import ServiceCards from '../../../servicesComponents/ServiceCards'
+import Testimonials from '../../../servicesComponents/Testimonials'
 
 
 const Immigration = async ({
@@ -21,9 +21,9 @@ const Immigration = async ({
  
 
 <div>
-        <HeaderImmigration />
-        <ServiceCardsImmigration />
-        <TestimonialsImmigration />
+        <Header  />
+        <ServiceCards  />
+        <Testimonials  />
         
  </div>
     )

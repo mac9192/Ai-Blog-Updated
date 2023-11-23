@@ -8,6 +8,7 @@ module.exports = {
     "./node_modules/flowbite-react/**/*.js",
     "./frontComponents/**/*.{js,ts,jsx,tsx}",
     "./chatbot-components/**/*.{js,ts,jsx,tsx}",
+    "./servicesComponents/**/*.{js,ts,jsx,tsx}",
  
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx}",
