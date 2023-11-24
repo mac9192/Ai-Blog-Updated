@@ -34,14 +34,14 @@ const Header2: React.FC<myComponentProps> = ({dictionary}:{dictionary:any}) => {
   }, []);
 
   return (
-    <div className="relative fixed lg:mt-[-117px] md:mt-[-138px] z-200 inset-0  ">
+    <div className="relative fixed lg:mt-[-17px] md:mt-[-138px] z-200 inset-0  ">
 
    
 
       <div>
         { isButtonPressed ? (
 
-              <div className= " fixed inset-0 sm:hidden md:block fixed w-full  h-screen bg-black z-100 bg-opacity-95 md:p-[120px] mt-[px] absolute  z-[999]" >
+              <div className= " fixed inset-0 sm:hidden md:block fixed w-full  h-screen bg-black z-100 bg-opacity-95 md:p-[70px] mt-[px] absolute  z-[999]" >
        
      <div className="relative justfy  w-full pt-3 ...">
         <div className="relative mx-auto  w-1/6 ...">
@@ -54,7 +54,7 @@ const Header2: React.FC<myComponentProps> = ({dictionary}:{dictionary:any}) => {
         </div>
         <div className="relative">
           <div className="w-full mx-auto sticky">
-          <iframe className="mx-auto w-full md:min-h-[620px] mt-[40px]   sticky inset-0 "   src="https://www.youtube.com/embed/F1O_Tqa38JQ?si=AK0Da9WrtqmpjBpb" title="YouTube video player"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  ></iframe>
+          <iframe className="mx-auto w-full md:min-h-[620px] mt-[30px]   sticky inset-0 "   src="https://www.youtube.com/embed/F1O_Tqa38JQ?si=AK0Da9WrtqmpjBpb" title="YouTube video player"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  ></iframe>
   
         </div>
         </div>
