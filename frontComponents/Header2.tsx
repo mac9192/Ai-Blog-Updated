@@ -34,31 +34,31 @@ const Header2: React.FC<myComponentProps> = ({dictionary}:{dictionary:any}) => {
   }, []);
 
   return (
-    <div className="relative sticky lg:mt-[-117px] md:mt-[-138px]  ">
+    <div className="relative fixed lg:mt-[-107px] md:mt-[-138px] z-200 inset-0  ">
 
-      {/*
-      
-    
-      */}
+   
 
       <div>
         { isButtonPressed ? (
 
-              <div className= " sm:hidden md:block fixed w-full h-screen bg-black z-100 bg-opacity-95 md:p-[120px] mt-[px] absolute  z-[999]" >
+              <div className= " fixed inset-0 sm:hidden md:block fixed w-full   bg-black z-100 bg-opacity-95 md:p-[120px] mt-[px] absolute  z-[999] mb-[200px]" >
        
      <div className="relative justfy  w-full pt-3 ...">
         <div className="relative mx-auto  w-1/6 ...">
         <div className="absolute top-0 left-[680px]    w-16  w-2/3 text-white  border-white text-center hover:text-2xl...">
-          <button type="button" className="text-xl hover:text-2xl mb-2" onClick={() => setButtonPressed(!isButtonPressed) }>    
+          <button type="button" className="text-xl hover:text-2xl mb-2 z-150 mt-[-150px]" onClick={() => setButtonPressed(!isButtonPressed) }>    
             Close Video
           </button>
           </div>
       </div>
         </div>
-        <div className="w-full mx-auto relative">
-          <iframe className="mx-auto w-full md:min-h-[550px] mt-[40px] sticky"   src="https://www.youtube.com/embed/F1O_Tqa38JQ?si=AK0Da9WrtqmpjBpb" title="YouTube video player"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  ></iframe>
+        <div className="relative">
+          <div className="w-full mx-auto sticky">
+          <iframe className="mx-auto w-full md:min-h-[550px] mt-[30px] sticky inset-0 "   src="https://www.youtube.com/embed/F1O_Tqa38JQ?si=AK0Da9WrtqmpjBpb" title="YouTube video player"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  ></iframe>
   
         </div>
+        </div>
+      
    
       </div>
         ): null }
