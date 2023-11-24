@@ -47,7 +47,7 @@ const Header2: React.FC<myComponentProps> = ({dictionary}:{dictionary:any}) => {
         <div className="relative mx-auto  w-1/6 ...">
         <div className="absolute top-0 left-[680px]    w-16  w-2/3 text-white  border-white text-left hover:text-2xl...">
           <button type="button" className="text-xl hover:text-2xl mb-2" onClick={() => setButtonPressed(!isButtonPressed) }>    
-            Close Video
+            Close Video X
           </button>
           </div>
       </div>
