@@ -14,7 +14,7 @@ const Testimonials = ({dictionary}:{dictionary:any}) => {
    
    <div className=" ">
           <div className="flex items-center justify-center h-[600px] bg-fixed bg-atlsky bg-cover space-x-10  ">
-            <div className="flex sm:flex-col md:flex-r  w-3/4 h-96">
+            <div className="flex sm:flex-col md:flex-r  md:w-3/4 h-96">
                    <p className="text-6xl tracking-wide text-white  mx-auto text-center md:mt-[70px] sm:mt-[-20px] ">
                    WHAT OUR CLIENTS SAY
                    </p>

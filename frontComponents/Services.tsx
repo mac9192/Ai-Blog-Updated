@@ -15,7 +15,7 @@ const services = ({dictionary}:{dictionary:any}) => {
 
  
 
-        <div className="text-center py-10 text-[36px] text-logoBlue  ">
+        <div className="text-center py-10 text-[36px] md:text-5xl text-logoBlue  ">
           {dictionary.services.header}
         </div>
 

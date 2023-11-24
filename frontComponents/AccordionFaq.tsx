@@ -12,7 +12,7 @@ import gerardo from '../public/assets/profile-gerardo.png'
 const AccordionFaq = ({dictionary}:{dictionary:any}) =>{
 
     return(
-        <div className="md:container md:mx-auto sm:p-4 md:mt-[100px] sm:mt-[10px] mb-[100px]">
+        <div className="md:container md:mx-auto sm:p-4 md:mt-[50px] sm:mt-[10px] mb-[100px]">
                <div className="md:p-10 md:text-[36px] sm:text-[25px] sm:py-8  mx-auto text-center max-w-screen-2xl text-logoBlue">
                <p className="text-5xl pb-10">OUR TEAM</p>
               </div>

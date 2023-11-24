@@ -14,7 +14,7 @@ const HomeBlogPosts = ({posts, locale }:PostListProps) => {
     return (
 
         <div>
-                             <div className="flex sm:flex-col md:flex-col  p-10 border-b-2 ">
+                             <div className="flex sm:flex-col md:flex-col  md:p-10 border-b-2 ">
                     <div>
                     
                     </div>
