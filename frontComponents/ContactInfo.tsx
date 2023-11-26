@@ -7,6 +7,7 @@ import {sendEmail} from '../contactForm/sendEmail'
 // @ts-expect-error
 import { useFormStatus } from 'react-dom';
 import SubmitBtn from './SubmitBtn'
+import GoogleMap from '../googleMaps/GoogleMap'
  
 import ContactInfoForm from './ContactInfoForm'
 
@@ -88,7 +89,7 @@ const ContactInfo = ({dictionary}:{dictionary:any}) => {
               <div className="w-full shrink-0 grow-0 basis-auto md:w-6/12 md:px-3 lg:w-full lg:px-6 xl:mb-12   mx-auto items-center  ">
               
               <div className="w-full">
-                   <Image className="w-full mx-auto pt-5"src = {map} alt="/" width="1000" height="500" priority={true} />
+                  <GoogleMap />
               </div>
          
    
