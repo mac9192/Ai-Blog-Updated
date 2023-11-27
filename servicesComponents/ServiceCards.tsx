@@ -14,14 +14,14 @@ const ServiceCards = () => {
    
       <div className='bg-logoBlue sm:hidden md:block shadow-xl  row-span-1 md:col-span-2 ' > 
         <div className="flex flex-row w-full ">
-            <div className="w-2/4 ">
-            <Image className=" min-h-[405px] " width={500} height={500} src={carAccident} alt=""/>
+            <div className="w-4/6  bg-carAccident bg-cover ">
+            
             </div>
             <div className="flex flex-col w-2/3">
                 <p className="text-3xl text-white  text-center p-3 pt-10">MOTOR VEHICLE ACCIDENTS</p>
                 <span className="border-dotted border-b-4 border-white   w-full text-center mx-auto pl-10 pt-5" />
                 <p className="text-2xl text-white    pt-[50px] mx-auto    text-left p-3 tracking-wide     ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
-                <p className="text-xl text-white  text-left pt-12    pl-4 tracking-wide text-left  p  ">Learn More</p>
+                <p className="text-xl text-white  text-left pt-12    pl-4 tracking-wide text-left  mb-3  ">Learn More</p>
             </div>
 
         </div>
@@ -39,8 +39,8 @@ const ServiceCards = () => {
       </div>
    
 
-      <div className='bg-truck bg-cover shadow-xl min-h-[350px]' >
-         <div className="relative    pt-[405px]  ...">
+      <div className='bg-truck bg-cover shadow-xl ' >
+         <div className="relative   lg:pt-[323px] pt-[354px] mt-1  ...">
             <div className="absolute inset-x-0 bottom-0 h-20 mt-3 bg-logoBlue opacity-90 w-full">
                 <div className="mx-auto text-center">
                     <p className="text-white text-2xl pt-5">TRUCK ACCIDENTS</p>
