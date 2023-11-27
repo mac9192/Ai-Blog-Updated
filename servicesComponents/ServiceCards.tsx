@@ -20,7 +20,7 @@ const ServiceCards = () => {
             <div className="flex flex-col">
                 <p className="text-3xl text-white  text-center pt-10">MOTOR VEHICLE ACCIDENTS</p>
                 <span className="border-dotted border-b-4 border-white    pt-5" />
-                <p className="text-2xl text-white  text-left pt-20 mx-auto pl-10 mx-auto   tracking-wide   ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
+                <p className="text-2xl text-white    pt-20 mx-auto   mx-auto  text-center tracking-wide   ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
                 <p className="text-xl text-white  text-left pt-20    pl-10 tracking-wide text-left  p  ">Learn More..</p>
             </div>
 
