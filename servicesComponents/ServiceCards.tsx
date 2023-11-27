@@ -21,7 +21,7 @@ const ServiceCards = () => {
                 <p className="text-3xl text-white  text-center p-3 pt-10">MOTOR VEHICLE ACCIDENTS</p>
                 <span className="border-dotted border-b-4 border-white   w-full text-center mx-auto pl-10 pt-5" />
                 <p className="text-2xl text-white    pt-[50px] mx-auto    text-left p-3 tracking-wide     ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
-                <p className="text-xl text-white  text-left pt-12    pl-4 tracking-wide text-left  mb-3  ">Learn More</p>
+                <p className="text-xl text-white md:w-1/2  lg:w-1/3 mt-10 text-left sm:ml-4 lg:ml-3 border-2 border-white-600  pl-4 tracking-wide text-left  mb-3  ">Learn More</p>
             </div>
 
         </div>
@@ -37,17 +37,29 @@ const ServiceCards = () => {
             </div>
         </div>
       </div>
-   
 
-      <div className='bg-truck bg-cover shadow-xl ' >
-         <div className="relative   lg:pt-[323px] pt-[354px] mt-1  ...">
-            <div className="absolute inset-x-0 bottom-0 h-20 mt-3 bg-logoBlue opacity-90 w-full">
+      
+   
+      <div className='sm:hidden md:block relative bg-truck bg-cover shadow-xl ' >
+       <div className="absolute inset-x-0 bottom-0 text-white h-20  text-center text-2xl bg-logoBlue opacity-90">
+           <p className="pt-5">TRUCK ACCIDENT</p>
+        </div>
+      </div>
+
+
+      <div className='bg-truck md:hidden sm:block bg-cover shadow-xl min-h-[350px]' >
+         <div className="relative h-96   ...">
+            <div className="absolute inset-x-0 bottom-0 h-20 bg-logoBlue opacity-90 w-full">
                 <div className="mx-auto text-center">
-                    <p className="text-white text-2xl pt-5">TRUCK ACCIDENTS</p>
+                    <p className="text-white text-2xl pt-5">TRUCK ACCIDENT</p>
                 </div>
             </div>
         </div>
       </div>
+
+    
+        
+      
  
  
    
