@@ -2,7 +2,7 @@ import Image from 'next/image'
 import laweyer3 from '../public/assets/lawyer3.jpg' 
 import lawfam from '../public/assets/lawfam.png'
 
-const TestimonialsImmigration = () => {
+const Testimonials = () => {
     return (
 
         <div>
@@ -53,4 +53,4 @@ const TestimonialsImmigration = () => {
     )
 }
 
-export default TestimonialsImmigration
+export default Testimonials

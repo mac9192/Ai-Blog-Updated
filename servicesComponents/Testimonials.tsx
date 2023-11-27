@@ -13,13 +13,13 @@ const Testimonials = () => {
             <div className="md:w-/4 sm:text-center sm:mx-auto sm:w-full md:text-[22px] md:max-w-[800px] md:text-right">
                 <Image className="  md:w-1/10  border-r-4 border-logoBlue" width={5200} height={10} src={lawfam} alt=""/>
             </div>
-            <div className="  sm:text-center sm:mx-auto sm:w-full md:text-[25px]  md:max-w-[450px] md:text-left">
-            <p className="pt-3 sm:text-white md:text-black   ">My son was in a very serious car accident and Gerardo immediately helped him - step by step - take care of working with the lender getting the totaled car paid off and then working with the other insurance company to make sure my son was taken care of as was appropriate.</p> 
+            <div className="  sm:text-center sm:mx-auto sm:w-full md:text-[25px]  md:max-w-[650px] md:text-left">
+            <p className="pt-3 sm:text-white md:text-black    ">My son was in a very serious car accident and Gerardo immediately helped him - step by step - take care of working with the lender getting the totaled car paid off and then working with the other insurance company to make sure my son was taken care of as was appropriate.</p> 
             <p className="justify-end pt-3 text-[16px] border-logoBlue p-8">- Kelly A.</p>
             </div>
             
             <div className="md:w-1/4 sm:text-center sm:mx-auto sm:w-full md:text-[20px] md:max-w-[450px] md:text-left sm:hidden  ">
-            <p className="pt-3 sm:text-white md:text-black  border-l-4 border-logoBlue p-6">My son was in a very serious car accident and Gerardo immediately helped him - step by step - take care of working with the lender getting the totaled car paid off and then working with the other insurance company to make sure my son was taken care of as was appropriate.</p> 
+            <p className="md:pt-3 sm:text-white md:text-black  border-l-4 border-logoBlue p-6 w-full">My son was in a very serious car accident and Gerardo immediately helped him - step by step - take care of working with the lender getting the totaled car paid off and then working with the other insurance company to make sure my son was taken care of as was appropriate.</p> 
             <p className="justify-end pt-3 text-[16px] border-logoBlue p-8">- Kelly A.</p>
             </div>
 
