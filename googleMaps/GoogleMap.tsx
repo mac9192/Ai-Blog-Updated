@@ -45,7 +45,11 @@ const Map = ( ) => {
     })
 
     return (
-        <div style ={{height:'600px'}} ref={mapRef}/>
+        <div  className=" bg-black">
+           
+                 <div  style ={{height:'600px', width:'auto'}} ref={mapRef}/>
+        </div>
+   
           
        
     )

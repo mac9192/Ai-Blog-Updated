@@ -86,7 +86,7 @@ const ContactInfo = ({dictionary}:{dictionary:any}) => {
            
       
           
-              <div className="w-full shrink-0 grow-0 basis-auto md:w-6/12 md:px-3 lg:w-full lg:px-6 xl:mb-12   mx-auto items-center  ">
+              <div className="w-full shrink-0 grow-0 basis-auto  md:px-3 lg:w-full lg:px-6 xl:mb-12   mx-auto items-center  ">
               
               <div className="w-full">
                   <GoogleMap />

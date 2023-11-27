@@ -30,7 +30,7 @@ const Testimonials = () => {
           <div className="flex items-center justify-center h-96 bg-fixed bg-piSmall bg-cover space-x-10  ">
             <div className="flex sm:flex-col md:flex-r w-1/2">
                    <p className="text-4xl tracking-wide text-white w-3/4  ">
-                   Strong And Effective Atlanta Personal Injury Representation from a Georgia Personal Injury Lawyer
+                  Atlanta Personal Injury Representation from a Georgia Personal Injury Lawyer
                    </p>
                    <p className="text-[18px] text-white pt-4 ">
                      At the personal injury firm of Cheves Briceno, we provide aggressive legal advocacy for people in Georgia, Alabama and Florida who have suffered injuries due to someone else’s negligence. We will not hesitate to take on powerful insurance companies and other corporate interests if it means helping you recoup compensation for your damages.

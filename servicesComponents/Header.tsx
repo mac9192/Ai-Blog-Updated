@@ -30,18 +30,18 @@ const Header = () => {
 
  <div>
      <div className="md:hidden sm:block p-6">
-                     <p className="text-logoBlue   sm:text-2xl md:text-[32px] font-bold track-leading sm:text-center md:text-left  ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
-                     <p className="text-black track-leading pt-5 sm:text-xl ">At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.</p>
+                     <p className="text-logoBlue   sm:text-[28px] text-[32px] font-bold track-leading ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
+                     <p className="text-black track-leading pt-5 ">At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.</p>
      </div>
  </div>
 
  
 
-   <div className="relative container   sm:hidden md:block h-32 w-32 mx-auto md:min-h-[225px] md:min-w-[1000px] lg:min-w-[1200px] md:mt-[-360px] lg:mt-[-336px]   mb-[160px] ...">
+   <div className="relative container   sm:hidden md:block h-32 w-32 mx-auto md:min-h-[238px] md:min-w-[1000px] lg:min-w-[1200px] md:mt-[-370px] lg:mt-[-336px]   mb-[160px] ...">
             <div className="absolute inset-x-5 bottom-0 h-16  text-white mx-auto     opacity-100">
                 <div className="flex flex-row  border-l-4 border-logoBlue ">
                     <div className="w-4/5 flex flex-col bg-white min-h-[229px] p-[20px]">
-                        <p className="text-logoBlue    text-[32px] font-bold track-leading ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
+                        <p className="text-logoBlue    text-4xl font-bold track-leading ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
                         <p className="text-black track-leading pt-5 ">At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.</p>
                         <span className="border-dotted border-b-2 border-logoBlue pt-10 mb-10">
 

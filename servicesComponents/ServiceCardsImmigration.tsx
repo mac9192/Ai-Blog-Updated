@@ -7,7 +7,7 @@ const ServiceCards = () => {
     return (
         <div>
          <div className="mt-[400px] sm:mt-[20px]   md:mx-auto md:pl-[100px] md:pr-[100px]">
-      <p className="md:mt-[400px]  text-3xl tracking-wide w-full border-b-4 border-dotted border-logoBlue text-logoBlue p-3 md:text-left sm:text-center">Immigration Services:</p>
+      <p className="md:mt-[400px]  text-5xl tracking-wide w-full border-b-4 border-dotted border-logoBlue text-logoBlue p-3 md:text-left sm:text-center">Immigration Services:</p>
 </div>
  
      
