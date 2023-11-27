@@ -12,15 +12,15 @@ const ServiceCards = () => {
  
 <div className='grid   md:mx-auto md:grid-cols-3 sm:grid-cols-1 gap-x-2 gap-y-3 grid-flow-row-dense pt-10   md:pl-[40px] md:pr-[40px]  '>
    
-      <div className='bg-logoBlue sm:hidden md:block shadow-xl w-full min-h-[350px] row-span-1 md:col-span-2 ' > 
+      <div className='bg-logoBlue sm:hidden md:block shadow-xl  row-span-1 md:col-span-2 ' > 
         <div className="flex flex-row w-full ">
-            <div className="w-1/2">
-            <Image className=" min-h-[465px] " width={600} height={500} src={carAccident} alt=""/>
+            <div className=" ">
+            <Image className=" min-h-[405px] " width={500} height={500} src={carAccident} alt=""/>
             </div>
-            <div className="flex flex-col w-1/2">
-                <p className="text-3xl text-white  text-center pt-10">MOTOR VEHICLE ACCIDENTS</p>
-                <span className="border-dotted border-b-4 border-white   w-full pr-5 pt-5" />
-                <p className="text-2xl text-white    pt-20 mx-auto   mx-auto  text-left p-3 tracking-wide   ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
+            <div className="flex flex-col w-2/3">
+                <p className="text-3xl text-white  text-center p-3 pt-10">MOTOR VEHICLE ACCIDENTS</p>
+                <span className="border-dotted border-b-4 border-white   w-full text-center mx-auto pl-10 pt-5" />
+                <p className="text-2xl text-white    pt-20 mx-auto    text-left p-3 tracking-wide   ">We provide our clients with compassionate, yet aggressive representation  vehicle accidents.</p>
                 <p className="text-xl text-white  text-left pt-12    pl-4 tracking-wide text-left  p  ">Learn More</p>
             </div>
 
@@ -40,7 +40,7 @@ const ServiceCards = () => {
    
 
       <div className='bg-truck bg-cover shadow-xl min-h-[350px]' >
-         <div className="relative h-[465px] lg:h-[464px]  ...">
+         <div className="relative    pt-[405px]  ...">
             <div className="absolute inset-x-0 bottom-0 h-20 mt-3 bg-logoBlue opacity-90 w-full">
                 <div className="mx-auto text-center">
                     <p className="text-white text-2xl pt-5">TRUCK ACCIDENTS</p>
