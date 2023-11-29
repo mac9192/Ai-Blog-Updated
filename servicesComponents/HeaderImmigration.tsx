@@ -30,8 +30,8 @@ const Header = ({dictionary}:{dictionary:any}) => {
 
  <div>
      <div className="md:hidden sm:block p-6">
-    <p className="text-logoBlue   sm:text-2xl text-[32px] font-bold track-leading sm:text-center md:text-left">{dictionary.immigration.subHeader}</p>
-                     <p className="text-black track-leading pt-5 sm:text-xl"> {dictionary.immigration.subHeader}</p>
+    <p className="text-logoBlue   sm:text-2xl text-[32px] font-bold track-leading sm:text-left md:text-left">{dictionary.immigration.header}</p>
+                     <p className="text-black track-leading pt-5 text-left sm:text-xl"> {dictionary.immigration.subHeader}</p>
      </div>
  </div>
 
