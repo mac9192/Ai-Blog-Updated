@@ -61,10 +61,13 @@
       "firmDesc":"After serving in roles with Immigration and Customs Enforcement’s Office of Chief Counsel in Miami and spending 7 years in private practice, managing partner Gerardo Briceno started his own Atlanta personal injury and immigration law firm. Since its founding, Cheves Briceno has grown through the addition of fellow attorneys Eduardo Galvao, Jennifer Bechtold and a dedicated team of crucial administrative and paralegal staff. Briceno attorneys have been widely recognized and awarded in the legal profession. Notable achievements include the coveted SuperLawyers recognition, National Trial Lawyers Top 40 under 40, a Client’s Choice award from Avvo.com and consistent 5-star reviews on legal review sites.",
       "chevesBriceno": "Cheves Briceno",
       "different":"How we are different",
-      "youFirst":"You First"
+      "differentDesc":" Many members of the Cheves Briceno team are multilingual, including the founding partner. The ability to speak Spanish, Portuguese and French allows us to work with clients from a wide range of ethnic backgrounds and countries. To us, this perfectly complements our mission to give clients the compassion they need in difficult times, including the ability to speak, listen and write in their native language.While our headquarters is in Atlanta, we proudly serve clients throughout the country. A second office is located in Spokane, Washington. No matter where our clients live, we bring demonstrated and deep expertise in both state and local laws pertaining to our areas of practice.",
+      "youFirst":"You First",
+      "youFirstDesc": "At the Atlanta personal injury firm of Cheves Briceno, we provide aggressive legal advocacy for people who have suffered injuries due to someone else’s negligence. We will not hesitate to take on powerful insurance companies and other corporate interests if it means helping you recoup compensation for your damages. We are prepared to negotiate a settlement or go to trial for the fair and just compensation that you deserve."
+
     },
     "header3":{
-      "headerTop":"FAR-REACHING",
+      "headerTop":"FAR-REACHING REPRESENTATION",
       "headerBtm":"REPRESENTATION",
       "description":"We are headquartered in Peachtree Corners, GA, but we have a much farther reach. At Cheves Briceno, we represent clients in no fewer than four states: Georgia, Florida, Alabama, and Washington. Even if you do not live in the Atlanta metro area, we can still represent you.",
       "btn":"Schedule Consultation"
@@ -75,7 +78,9 @@
       "provenPI":"Proven Atlanta Personal Injury Law Firm",
       "provenPIdesc":"Accidents resulting in personal injuries to you or a loved one can be life-changing, physically painful and emotionally burdensome. In situations where an accident was caused by the negligence of another party (or parties) you might be entitled to compensation that will help cover medical expenses, replace lost income or future potential earnings, and assistance with physical pain and suffering. Unfortunately, insurance companies will sometimes use forceful or unscrupulous tactics to get you to settle for less than you deserve; especially if you are not working with an Atlanta personal injury law firm. Additionally, some vehicle accidents can be highly complex and involve multiple negligent parties. Winning these types of suits requires a sophisticated legal approach. Partnering with an Atlanta personal injury law firm is the best way to ensure that your interests are protected and you receive the compensation you deserve. As a knowledgeable and dedicated Atlanta personal injury law firm, we handle a wide variety of the most common personal injury claims, detailed in the next section.",
       "commonPI":"Most Common Personal Injury Claims",
-      "experiencedImmigartion":"An Experienced Immigration Law Firm",
+      "commonPIDesc":"Recovering from an injury caused by someone else’s negligence is not only physically painful but also fraught with complex legal proceedings. Trying to handle insurance claims or file a personal injury claim on your own while coping with recovery is not easy. Trust an experienced Atlanta personal injury law firm to handle the details of your claim and provide effective representation.",
+      "experiencedImmigration":"An Experienced Immigration Law Firm",
+      "experiencedImmigrationDesc": "Immigrating to the United States is a long and complex process. Even in simple, straightforward applications, the entire journey can put an incredible amount of stress on individuals and families. If you don’t know where, when, or how to start the process, or if things have gone wrong and you’re not getting clear answers, contact one of the premier immigration law firms in Atlanta for support. The Cheves Briceno team will help you understand exactly how to get the citizenship or permanent resident status you need, whether it’s a visa, green card or permanent U.S. citizenship. You can trust one of the leading immigration law firms in Atlanta to compassionately serve you and your family in a difficult situation.",
       "familyImmigration":"Atlanta Family and Immigration Law"
     },
 
@@ -129,5 +134,58 @@
       "blog":"BLOG",
       "contact":"CONTACT"
 
+    },  
+
+  
+
+    "personalinjury":{
+      "CardHeader":"COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS",
+      "CardSubHeader": "At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.",
+      "btn":"Consult",
+      "pi":"PERSONAL INJURY",
+      "accident": "Car Accidents",
+      "motorcycle": "Motorcycle accidents",
+      "truck": "Commercial truck accidents",
+      "pedestrian": "Pedestrian and bicycle accidents",
+      "slip": "Slip and Falls",
+      "liability": "Other premises liability cases",
+      "products": "Dangerous and defective products",
+      "death": "Wrongful death",
+      "worker":"Workers Compensation",
+      "explore":"Explore More",
+
+      "personalInjury": "Personal Injury Services:",
+      "motor":"MOTOR VEHICLE ACCIDENTS",
+      "representation": "We provide our clients with compassionate, yet aggressive representation vehicle accidents.",
+      "learn":"Learn More",
+      "truck1": "TRUCK ACCIDENT",
+
+      "wrongful": "WRONGFUL DEATH",
+      "comp":"WORKERS COMPENSATION",
+      "fall":"SLIP AND FALLS",
+    
+      "card1":"My son was in a very serious car accident and Gerardo immediately helped him - step by step - take care of working with the lender getting the totaled car paid off and then working with the other insurance company to make sure my son was taken care of as was appropriate.",
+      "ctaCard": "Atlanta Personal Injury Representation from a Georgia Personal Injury Lawyer",
+      "subctaCard":"At the personal injury firm of Cheves Briceno, we provide aggressive legal advocacy for people in Georgia, Alabama and Florida who have suffered injuries due to someone else’s negligence. We will not hesitate to take on powerful insurance companies and other corporate interests if it means helping you recoup compensation for your damages.",
+      "btn1":"Consult"
+
+
+      
+    },
+
+    "immigration": {
+      "header":"Your Atlanta Immigration Lawyer with Comprehensive Representation",
+      "subHeader":"Immigration laws and practices have fluctuated wildly in the past 5 years, with continually shifting guidance from federal agencies. With a highly experienced Atlanta immigration lawyer team for Georgia family & immigration law, we know that these changes have left many families and individuals in a state of uncertainty",
+      "family":"Family-Based Immigration",
+      "removal": "Removal Defense",
+      "business":"Business Immigration",
+      "immigration": "IMMIGRATION ",
+      "family1": "FAMILY BASED IMMIGRATION",
+      "learn":"Learn More",
+      "removal1":"REMOVAL DEFENSE",
+      "business1":"BUSINESS IMMIGRATION"
     }
-  }
+  
+
+}
+

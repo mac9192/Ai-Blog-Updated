@@ -55,29 +55,36 @@
     "cta": {
       "header": "Empoderando su Trayectoria Legal: Conozca a Nuestro Equipo Legal Experto"
     },
-    "faq": {
-      "header": "Cheves Briceno no es un bufete de abogados típico. Rompemos con el molde convencional al brindar un servicio agresivo en la sala del tribunal pero compasivo con nuestros clientes.",
-      "header2":"Preguntas sobre Lesiones Personales",
-      "firm": "Nuestro Bufete",
-      "firmDesc": "Después de desempeñarse en roles con la Oficina del Abogado Principal de Inmigración y Aduanas (Immigration and Customs Enforcement - ICE) en Miami y pasar 7 años en práctica privada, el socio gerente Gerardo Briceno fundó su propio bufete de abogados de lesiones personales e inmigración en Atlanta. Desde su fundación, Cheves Briceno ha crecido mediante la incorporación de otros abogados como Eduardo Galvao, Jennifer Bechtold y un equipo dedicado de personal administrativo y paralegal esencial. Los abogados de Briceno han sido ampliamente reconocidos y premiados en la profesión legal. Entre los logros destacados se encuentran el codiciado reconocimiento de SuperLawyers, Los Mejores Abogados Litigantes Menores de 40 de Estados Unidos, el premio Elección del Cliente de Avvo.com y reseñas consistentes de 5 estrellas en sitios de reseñas legales.",
-      "chevesBriceno": "Cheves Briceno",
-      "different": "Cómo somos diferentes",
-      "youFirst": "Usted es lo Primero"
-    },
-    "header3": {
-      "headerTop": "AMPLIA",
-      "headerBtm": "REPRESENTACIÓN",
-      "description": "Nuestra sede está en Peachtree Corners, GA, pero tenemos un alcance mucho más amplio. En Cheves Briceno, representamos a clientes en al menos cuatro estados: Georgia, Florida, Alabama y Washington. Incluso si no vives en el área metropolitana de Atlanta, aún podemos representarte.",
-      "btn": "Programar Consulta"
-    },
-    "faq2": {
-      "header": "NUESTROS SERVICIOS EXPERTOS",
-      "provenPI": "Bufete de Abogados de Lesiones Personales en Atlanta Comprobado",
-      "provenPIdesc":"Los accidentes que resultan en lesiones personales para usted o un ser querido pueden cambiar su vida, causar dolor físico y ser una carga emocional. En situaciones en las que un accidente fue causado por la negligencia de otra parte (o partes), es posible que tenga derecho a una compensación que ayudará a cubrir gastos médicos, reemplazar ingresos perdidos o futuros ingresos potenciales, y brindar asistencia para el dolor físico y sufrimiento. Desafortunadamente, las compañías de seguros a veces utilizan tácticas agresivas o poco éticas para que acepte un acuerdo por menos de lo que merece, especialmente si no está trabajando con un bufete de abogados de lesiones personales en Atlanta. Además, algunos accidentes automovilísticos pueden ser altamente complejos e involucrar a varias partes negligentes. Ganar este tipo de demandas requiere un enfoque legal sofisticado. Asociarse con un bufete de abogados de lesiones personales en Atlanta es la mejor manera de asegurarse de que sus intereses estén protegidos y reciba la compensación que se merece. Como bufete de abogados de lesiones personales en Atlanta conocedor y dedicado, manejamos una amplia variedad de las reclamaciones de lesiones personales más comunes, detalladas en la siguiente sección.",
-      "commonPI": "Reclamaciones de Lesiones Personales Más Comunes",
-      "experiencedImmigartion": "Bufete de Abogados de Inmigración con Experiencia",
-      "familyImmigration": "Derecho Familiar e Inmigración en Atlanta"
-    },
+  
+      "faq": {
+        "header": "Cheves Briceno no es una firma de abogados típica. Rompemos el molde convencional al proporcionar un servicio que es agresivo en el tribunal pero compasivo con nuestros clientes.",
+        "firm": "Nuestra Firma",
+        "firmDesc": "Después de desempeñar roles en la Oficina del Abogado Principal de Inmigración y Aduanas de ICE en Miami y pasar 7 años en la práctica privada, el socio gerente Gerardo Briceno comenzó su propia firma de abogados de lesiones personales e inmigración en Atlanta. Desde su fundación, Cheves Briceno ha crecido con la incorporación de otros abogados como Eduardo Galvao, Jennifer Bechtold y un equipo dedicado de personal administrativo y paralegal fundamental. Los abogados de Briceno han sido ampliamente reconocidos y premiados en la profesión legal. Logros destacados incluyen el codiciado reconocimiento de SuperLawyers, National Trial Lawyers Top 40 menores de 40 años, un premio de Elección del Cliente de Avvo.com y calificaciones consistentes de 5 estrellas en sitios de reseñas legales.",
+        "chevesBriceno": "Cheves Briceno",
+        "different": "Cómo somos diferentes",
+        "differentDesc": "Muchos miembros del equipo de Cheves Briceno son multilingües, incluyendo al socio fundador. La capacidad de hablar español, portugués y francés nos permite trabajar con clientes de una amplia gama de orígenes étnicos y países. Para nosotros, esto complementa perfectamente nuestra misión de brindar a los clientes la compasión que necesitan en momentos difíciles, incluida la capacidad de hablar, escuchar y escribir en su idioma nativo. Si bien nuestra sede se encuentra en Atlanta, orgullosamente atendemos a clientes en todo el país. Una segunda oficina se encuentra en Spokane, Washington. No importa dónde vivan nuestros clientes, aportamos experiencia demostrada y profunda en las leyes estatales y locales relacionadas con nuestras áreas de práctica.",
+        "youFirst": "Usted Primero",
+        "youFirstDesc": "En la firma de lesiones personales de Atlanta de Cheves Briceno, proporcionamos una defensa legal agresiva para personas que han sufrido lesiones debido a la negligencia de otra persona. No dudaremos en enfrentarnos a poderosas compañías de seguros y otros intereses corporativos si eso significa ayudarlo a recuperar una compensación por sus daños. Estamos preparados para negociar un acuerdo o ir a juicio por la compensación justa y equitativa que usted merece."
+      },
+    
+  
+        "header3": {
+          "headerTop": "REPRESENTACIÓN DE AMPLIO ALCANCE",
+          "headerBtm": "REPRESENTACIÓN",
+          "description": "Nuestra sede se encuentra en Peachtree Corners, GA, pero tenemos un alcance mucho más amplio. En Cheves Briceno, representamos a clientes en no menos de cuatro estados: Georgia, Florida, Alabama y Washington. Incluso si no vive en el área metropolitana de Atlanta, aún podemos representarlo.",
+          "btn": "Programar Consulta"
+        },
+        "faq2": {
+          "header": "NUESTROS SERVICIOS EXPERTOS",
+          "header2": "Preguntas Frecuentes sobre Lesiones Personales",
+          "provenPI": "Firma de Abogados de Lesiones Personales en Atlanta Comprobada",
+          "provenPIdesc": "Los accidentes que resultan en lesiones personales para usted o un ser querido pueden cambiar la vida, causar dolor físico y ser emocionalmente abrumadores. En situaciones en las que un accidente fue causado por la negligencia de otra parte (o partes), es posible que tenga derecho a una compensación que cubra los gastos médicos, reemplace los ingresos perdidos o los futuros ingresos potenciales y brinde asistencia para el dolor físico y el sufrimiento. Desafortunadamente, las compañías de seguros a veces utilizan tácticas agresivas o poco éticas para hacer que acepte menos de lo que merece, especialmente si no está trabajando con una firma de abogados de lesiones personales en Atlanta. Además, algunos accidentes de vehículos pueden ser altamente complejos e involucrar a múltiples partes negligentes. Ganar este tipo de demandas requiere un enfoque legal sofisticado. Asociarse con una firma de abogados de lesiones personales en Atlanta es la mejor manera de asegurarse de que sus intereses estén protegidos y reciba la compensación que merece. Como firma de abogados de lesiones personales en Atlanta conocedora y dedicada, manejamos una amplia variedad de las reclamaciones de lesiones personales más comunes, que se detallan en la siguiente sección.",
+          "commonPI": "Reclamaciones de Lesiones Personales Más Comunes",
+          "commonPIDesc": "Recuperarse de una lesión causada por la negligencia de otra persona no solo es físicamente doloroso, sino que también implica procedimientos legales complejos. Intentar manejar reclamaciones de seguros o presentar una demanda por lesiones personales por su cuenta mientras se enfrenta a la recuperación no es fácil. Confíe en una firma de abogados de lesiones personales en Atlanta con experiencia para manejar los detalles de su reclamación y proporcionar una representación efectiva.",
+          "experiencedImmigration": "Firma de Abogados de Inmigración con Experiencia",
+          "experiencedImmigrationDesc": "Inmigrar a los Estados Unidos es un proceso largo y complejo. Incluso en solicitudes simples y directas, todo el proceso puede generar una cantidad increíble de estrés en individuos y familias. Si no sabe dónde, cuándo o cómo comenzar el proceso, o si las cosas han salido mal y no recibe respuestas claras, comuníquese con una de las principales firmas de abogados de inmigración en Atlanta para obtener apoyo. El equipo de Cheves Briceno lo ayudará a comprender exactamente cómo obtener la ciudadanía o el estatus de residente permanente que necesita, ya sea una visa, una tarjeta verde o la ciudadanía permanente de los Estados Unidos. Puede confiar en una de las principales firmas de abogados de inmigración en Atlanta para servirlo a usted y a su familia de manera compasiva en una situación difícil.",
+          "familyImmigration": "Derecho de Familia e Inmigración en Atlanta"
+        },
   
     "events": {
       "header": "  LAS ÚLTIMAS NOTICIAS Y ENTRADAS DE BLOG",
@@ -128,6 +135,58 @@
     "about": "SOBRE NOSOTROS",
     "blog": "BLOG",
     "contact": "CONTACTO"
-  }
+  },
+
+
+  
+    "personalinjury": {
+      "CardHeader": "DEFENSORES COMPASIVOS PARA LAS VÍCTIMAS DE LESIONES PERSONALES",
+      "CardSubHeader": "En nuestra firma de abogados de lesiones personales, estamos dedicados a brindar un apoyo inquebrantable y representación legal experta a aquellos que han resultado heridos debido a la negligencia de otros. Con un profundo compromiso con la justicia y un historial de resultados exitosos, nuestro equipo de defensores compasivos está aquí para ayudarlo a asegurar la compensación que merece.",
+      "btn": "Consultar",
+      "pi": "LESIONES PERSONALES",
+      "accident": "Accidentes de automóvil",
+      "motorcycle": "Accidentes de motocicleta",
+      "truck": "Accidentes de camiones comerciales",
+      "pedestrian": "Accidentes de peatones y bicicletas",
+      "slip": "Caídas y resbalones",
+      "liability": "Otros casos de responsabilidad de las instalaciones",
+      "products": "Productos peligrosos y defectuosos",
+      "death": "Muerte injusta",
+      "worker": "Compensación para trabajadores",
+      "explore": "Explorar más",
+      
+      "personalInjury": "Servicios de Lesiones Personales:",
+      "motor": "ACCIDENTES DE VEHÍCULOS",
+      "representation": "Brindamos a nuestros clientes una representación compasiva pero agresiva en accidentes de vehículos.",
+      "learn": "Más información",
+      "truck1": "ACCIDENTES DE CAMIONES",
+  
+      "wrongful": "MUERTE INJUSTA",
+      "comp": "COMPENSACIÓN PARA TRABAJADORES",
+      "fall": "CAÍDAS Y RESBALONES",
+      
+      "card1": "Mi hijo estuvo en un accidente de automóvil muy grave y Gerardo lo ayudó de inmediato, paso a paso, ocupándose de trabajar con el prestamista para pagar el automóvil totalizado y luego trabajando con la otra compañía de seguros para asegurarse de que mi hijo fuera atendido de manera apropiada.",
+      "ctaCard": "Representación de Lesiones Personales en Atlanta de un Abogado de Lesiones Personales de Georgia",
+      "subctaCard": "En la firma de lesiones personales de Cheves Briceno, brindamos una defensa legal agresiva para las personas en Georgia, Alabama y Florida que han sufrido lesiones debido a la negligencia de otra persona. No dudaremos en enfrentar a las poderosas compañías de seguros y otros intereses corporativos si significa ayudarlo a recuperar una compensación por sus daños.",
+      "btn1": "Consultar"
+    },
+
+    "immigration": {
+      "header": "Su Abogado de Inmigración en Atlanta con Representación Integral",
+      "subHeader": "Las leyes y prácticas de inmigración han fluctuado considerablemente en los últimos 5 años, con una orientación en constante cambio por parte de las agencias federales. Con un experimentado equipo de abogados de inmigración en Atlanta para leyes de inmigración y familiares en Georgia, sabemos que estos cambios han dejado a muchas familias e individuos en un estado de incertidumbre.",
+      "family": "Inmigración Basada en la Familia",
+      "removal": "Defensa contra la Deportación",
+      "business": "Inmigración Empresarial",
+      "immigration": "INMIGRACIÓN",
+      "family1": "INMIGRACIÓN BASADA EN LA FAMILIA",
+      "learn": "Más Información",
+      "removal1": "DEFENSA CONTRA LA DEPORTACIÓN",
+      "business1": "INMIGRACIÓN EMPRESARIAL"
+    }
+  
+  
+
+   
+  
   
 }

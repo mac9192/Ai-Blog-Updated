@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import bgpi from '../public/assets/carcrashpi.jpeg'
 import injury from '../public/assets/icon-injury.svg'
-const Header = () => {
+const Header = ({dictionary}:{dictionary:any}) => {
 
     return (
         <div>
@@ -30,7 +30,7 @@ const Header = () => {
 
  <div>
      <div className="md:hidden sm:block p-6">
-                     <p className="text-logoBlue   sm:text-[28px] text-[32px] font-bold track-leading ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
+    <p className="text-logoBlue   sm:text-[28px] text-[32px] font-bold track-leading ">   {dictionary.personalinjury.CardHeader}</p>
                      <p className="text-black track-leading pt-5 ">At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.</p>
      </div>
  </div>
@@ -41,14 +41,14 @@ const Header = () => {
             <div className="absolute inset-x-5 bottom-0 h-16  text-white mx-auto     opacity-100">
                 <div className="flex flex-row  border-l-4 border-logoBlue ">
                     <div className="w-4/5 flex flex-col bg-white min-h-[229px] p-[20px]">
-                        <p className="text-logoBlue    text-4xl font-bold track-leading ">COMPASSIONATE ADVOCATES FOR PERSONAL INJURY VICTIMS</p>
-                        <p className="text-black track-leading pt-5 ">At our personal injury law firm, we are dedicated to providing unwavering support and expert legal representation to those who have been injured due to the negligence of others. With a deep commitment to justice and a track record of successful outcomes, our team of compassionate advocates is here to help you secure the compensation you deserve.</p>
+                        <p className="text-logoBlue    text-4xl font-bold track-leading ">{dictionary.personalinjury.CardHeader}</p>
+                        <p className="text-black track-leading pt-5 ">{dictionary.personalinjury.CardSubHeader}</p>
                         <span className="border-dotted border-b-2 border-logoBlue pt-10 mb-10">
 
                             
                         </span>
           
-                                <button className="w-1/5 flex text-left text-white bg-logoBlue  border-0 py-2 px-9 focus:outline-none hover:bg-gray rounded text-lg">Book</button>
+                                <button className="w-1/5 flex text-left text-white bg-logoBlue  border-0 py-2 px-9 focus:outline-none hover:bg-gray rounded text-lg">{dictionary.personalinjury.btn}</button>
                             
                             
                 
@@ -62,27 +62,27 @@ const Header = () => {
                                      <Image className="   " width={20} height={10} src={injury} alt=""/>
                           
                         
-                              <p className="text-[20px]"> PERSONAL INJURY</p>
+                              <p className="text-[20px]">{dictionary.personalinjury.pi}</p>
                               
                         </div>
                            <span className="border-dotted border-b-2 border-white pt-4  "></span>
                         
                    
                         <ul className="list-disc text-[16px] pt-5 p-3">
-                        <li>Car accidents</li>
-                        <li>Motorcycle accidents</li>
-                        <li>Commercial truck accidents</li>
-                        <li>Pedestrian and bicycle accidents</li>
-                        <li>Slip-and-falls</li>
-                        <li>Other premises liability cases</li>
-                        <li>Dangerous and defective products</li>
-                        <li>Wrongful death</li>
-                        <li>Workers Compensation</li>
+                        <li>{dictionary.personalinjury.accident}</li>
+                        <li>{dictionary.personalinjury.motorcycle}</li>
+                        <li>{dictionary.personalinjury.truck}</li>
+                        <li>{dictionary.personalinjury.pedestrian}</li>
+                        <li>{dictionary.personalinjury.slip}</li>
+                        <li>{dictionary.personalinjury.liability}</li>
+                        <li>{dictionary.personalinjury.products}</li>
+                        <li>{dictionary.personalinjury.death}</li>
+                        <li>{dictionary.personalinjury.worker}</li>
                         </ul>
                     
 
 
-                        <p className="text-[18px]   lg:mb-[-26px] md:mb-[-200px]"> Explore More</p>
+                        <p className="text-[18px]   lg:mb-[-26px] md:mb-[-200px]"> {dictionary.personalinjury.explore}</p>
                        
                     </div>
                 </div>

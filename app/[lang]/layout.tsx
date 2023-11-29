@@ -81,7 +81,8 @@ export default async function RootLayout({
   const dicitionary = await getDictionary(lang);
   return (
     <html lang={lang}>
- 
+    
+  
  <Providers>
     <body className={abhaya_Libre.className}>
    

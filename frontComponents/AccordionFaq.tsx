@@ -14,7 +14,7 @@ const AccordionFaq = ({dictionary}:{dictionary:any}) =>{
     return(
         <div className="md:container md:mx-auto sm:p-4 md:mt-[50px] sm:mt-[10px] mb-[100px]">
                <div className="md:p-10 md:text-[36px] sm:text-[25px] sm:py-8  mx-auto text-center max-w-screen-2xl text-logoBlue">
-               <p className="text-5xl pb-10">OUR TEAM</p>
+    <p className="text-5xl pb-10">{dictionary.faq.firm}</p>
               </div>
         <div className="flex md:flex-row sm:flex-col gap-x-5 mx-auto">
         <div className="md:w-3/5 flex mdflex-row sm:flex-col mx-auto ">
@@ -23,26 +23,26 @@ const AccordionFaq = ({dictionary}:{dictionary:any}) =>{
   defaultValue="item-1">
                     <AccordionItem value="item-1">
                         <AccordionTrigger>
-                            <p className="text-white mx-auto p-3 text-2xl"> Proven Atlanta Personal Injury Law Firm</p>
+                            <p className="text-white mx-auto p-3 text-2xl"> {dictionary.faq.firm} </p>
                         </AccordionTrigger>
                         <AccordionContent>
-                        <p className=" mx-auto text-black border p-10 text-xl"> Accidents resulting in personal injuries to you or a loved one can be life-changing, physically painful and emotionally burdensome. In situations where an accident was caused by the negligence of another party (or parties) you might be entitled to compensation that will help cover medical expenses, replace lost income or future potential earnings, and assistance with physical pain and suffering. Unfortunately, insurance companies will sometimes use forceful or unscrupulous tactics to get you to settle for less than you deserve; especially if you are not working with an Atlanta personal injury law firm. Additionally, some vehicle accidents can be highly complex and involve multiple negligent parties. Winning these types of suits requires a sophisticated legal approach. Partnering with an Atlanta personal injury law firm is the best way to ensure that your interests are protected and you receive the compensation you deserve. As a knowledgeable and dedicated Atlanta personal injury law firm, we handle a wide variety of the most common personal injury claims, detailed in the next section.</p>
+    <p className=" mx-auto text-black border p-10 text-xl"> {dictionary.faq.firmDesc}</p>
                         </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-2">
                         <AccordionTrigger>
-                            <p className="text-white mx-auto p-3 text-2xl"> Proven Atlanta Personal Injury Law Firm</p>
+    <p className="text-white mx-auto p-3 text-2xl"> {dictionary.faq.different}</p>
                         </AccordionTrigger>
                         <AccordionContent>
-                        <p className=" mx-auto text-black border p-10 text-xl"> Accidents resulting in personal injuries to you or a loved one can be life-changing, physically painful and emotionally burdensome. In situations where an accident was caused by the negligence of another party (or parties) you might be entitled to compensation that will help cover medical expenses, replace lost income or future potential earnings, and assistance with physical pain and suffering. Unfortunately, insurance companies will sometimes use forceful or unscrupulous tactics to get you to settle for less than you deserve; especially if you are not working with an Atlanta personal injury law firm. Additionally, some vehicle accidents can be highly complex and involve multiple negligent parties. Winning these types of suits requires a sophisticated legal approach. Partnering with an Atlanta personal injury law firm is the best way to ensure that your interests are protected and you receive the compensation you deserve. As a knowledgeable and dedicated Atlanta personal injury law firm, we handle a wide variety of the most common personal injury claims, detailed in the next section.</p>
+                        <p className=" mx-auto text-black border p-10 text-xl">{dictionary.faq.differentDesc} </p>
                         </AccordionContent>
                     </AccordionItem>
                     <AccordionItem value="item-3">
                         <AccordionTrigger>
-                            <p className="text-white mx-auto p-3 text-2xl"> Proven Atlanta Personal Injury Law Firm</p>
+    <p className="text-white mx-auto p-3 text-2xl">{dictionary.faq.youFirst}</p>
                         </AccordionTrigger>
                         <AccordionContent>
-                        <p className=" mx-auto text-black border p-10 text-xl"> Accidents resulting in personal injuries to you or a loved one can be life-changing, physically painful and emotionally burdensome. In situations where an accident was caused by the negligence of another party (or parties) you might be entitled to compensation that will help cover medical expenses, replace lost income or future potential earnings, and assistance with physical pain and suffering. Unfortunately, insurance companies will sometimes use forceful or unscrupulous tactics to get you to settle for less than you deserve; especially if you are not working with an Atlanta personal injury law firm. Additionally, some vehicle accidents can be highly complex and involve multiple negligent parties. Winning these types of suits requires a sophisticated legal approach. Partnering with an Atlanta personal injury law firm is the best way to ensure that your interests are protected and you receive the compensation you deserve. As a knowledgeable and dedicated Atlanta personal injury law firm, we handle a wide variety of the most common personal injury claims, detailed in the next section.</p>
+    <p className=" mx-auto text-black border p-10 text-xl"> {dictionary.faq.youFirstDesc}</p>
                         </AccordionContent>
                     </AccordionItem>
                     </Accordion>

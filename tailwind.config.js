@@ -50,6 +50,10 @@ module.exports = {
           'worker':'url("public/assets/card-workComp.jpg")',
           'atlanta':'url("public/assets/img-atl1.svg")',
           'atlsky': 'url("public/assets/img-atlsky1.svg")',
+          'business': 'url("public/assets/business-immigration.jpg")',
+          'removal': 'url("public/assets/removal.jpg")',
+          'family': 'url("public/assets/fam-immigration.jpeg")',
+     
         },
 
       fontFamily: {

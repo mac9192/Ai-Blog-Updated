@@ -30,15 +30,15 @@ const ContactInfo = ({dictionary}:{dictionary:any}) => {
         <div className="flex flex-wrap">
         <div className="flex md:flex-row mx-auto text-center sm:flex-col mx-auto w-full">
                     <div className="mx-auto text-center  p-3 mx-auto ">
-                    <p className="text-logoBlue text-2xl">Office Number</p>
+  <p className="text-logoBlue text-2xl">{dictionary.contacts.office}</p>
                     <p className="text-xl pt-1" >(855) 274-2366</p>
                     </div>
                     <div className="mx-auto text-center  p-3 ">
-                    <p className="text-logoBlue text-2xl">Email Address</p>
+                    <p className="text-logoBlue text-2xl">{dictionary.contacts.email}</p>
                     <p className="text-xl pt-1">info@ChevesBriceno.com</p>
                     </div>
                     <div className="mx-auto text-center  p-3 ">
-                      <p className="text-logoBlue text-2xl">Atlanta Location</p>
+                      <p className="text-logoBlue text-2xl">{dictionary.contacts.location}</p>
                       <p className="text-xl pt-1">3295 River Exchange Dr. Suite 420</p>
                     </div>
                 </div>

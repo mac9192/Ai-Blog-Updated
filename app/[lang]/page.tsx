@@ -45,7 +45,7 @@ const page = async ({
     <Testimonials  dictionary={dictionary}/>
      
   
-<Services dictionary={dictionary}/> 
+    <Services dictionary={dictionary}/> 
     
  
      

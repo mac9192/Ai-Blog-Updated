@@ -16,11 +16,11 @@ const Testimonials = ({dictionary}:{dictionary:any}) => {
           <div className="flex items-center justify-center h-[600px] bg-fixed bg-atlsky bg-cover space-x-10  ">
             <div className="flex sm:flex-col md:flex-r  md:w-3/4 h-96">
                    <p className="text-6xl tracking-wide text-white  mx-auto text-center md:mt-[70px] sm:mt-[-20px] ">
-                   WHAT OUR CLIENTS SAY
+                  {dictionary.header3.headerTop}
                    </p>
 
                    <p className="md:text-2xl sm:text-xl tracking-wide text-white  mx-auto text-center md:mt-[70px] sm:mt-[40px] ">
-                   “Strong work ethic, very helpful and respectful. They helped us with an accident case. They always answered any question we had. I loved that they spoke Spanish so my mother would understand the process from beginning to end.”
+                    {dictionary.header3.description}
                    </p>
                  
                    <div className=" mx-auto mt-8 gap-x-3 flex-row flex ">
